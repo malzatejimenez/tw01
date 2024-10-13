@@ -1,7 +1,7 @@
 <footer class="bg-bookmark-blue py-8">
 	<div class="container flex flex-col md:flex-row items-center">
 		<div class="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12">
-			<img src="/imgs/logo-bookmark-white.png" alt="Bookmark Logo" />
+			<img src="/01-bookmark/imgs/logo-bookmark-white.png" alt="Bookmark Logo" />
 			<ul class="flex text-white uppercase gap-12 text-xs">
 				<li class="cursor-pointer">Features</li>
 				<li class="cursor-pointer">Pricing</li>

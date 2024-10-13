@@ -15,7 +15,7 @@
 		<!-- Card #1 -->
 		<div class="flex flex-col rounded-md shadow-md lg:mb-16">
 			<div class="p-6 flex flex-col items-center">
-				<img src="/imgs/logo-chrome.svg" alt="Chrome Logo" class="w-16 h-16 mb-4" />
+				<img src="/01-bookmark/imgs/logo-chrome.svg" alt="Chrome Logo" class="w-16 h-16 mb-4" />
 				<h3 class="mt-5 mb-2 text-bookmark-blue text-lg">Add to Chrome</h3>
 				<p class="mb-2 text-bookmark-grey font-light">Minimum version: 100</p>
 			</div>
@@ -27,7 +27,7 @@
 		<!-- Card #2 -->
 		<div class="flex flex-col rounded-md shadow-md lg:my-8">
 			<div class="p-6 flex flex-col items-center">
-				<img src="/imgs/logo-firefox.svg" alt="Firefox Logo" class="w-16 h-16 mb-4" />
+				<img src="/01-bookmark/imgs/logo-firefox.svg" alt="Firefox Logo" class="w-16 h-16 mb-4" />
 				<h3 class="mt-5 mb-2 text-bookmark-blue text-lg">Add to Firefox</h3>
 				<p class="mb-2 text-bookmark-grey font-light">Minimum version: 62</p>
 			</div>
@@ -39,7 +39,7 @@
 		<!-- Card #3 -->
 		<div class="flex flex-col rounded-md shadow-md lg:mt-16">
 			<div class="p-6 flex flex-col items-center">
-				<img src="/imgs/logo-opera.svg" alt="Opera Logo" class="w-16 h-16 mb-4" />
+				<img src="/01-bookmark/imgs/logo-opera.svg" alt="Opera Logo" class="w-16 h-16 mb-4" />
 				<h3 class="mt-5 mb-2 text-bookmark-blue text-lg">Add to Opera</h3>
 				<p class="mb-2 text-bookmark-grey font-light">Minimum version: 75</p>
 			</div>

@@ -15,7 +15,7 @@
 			<div class="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
 				<img
 					class="section-image"
-					src="/imgs/illustration-features-tab-1.png"
+					src="/01-bookmark/imgs/illustration-features-tab-1.png"
 					alt="Bookmark Manager Interface"
 				/>
 			</div>
@@ -53,7 +53,7 @@
 			<div class="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
 				<img
 					class="section-image"
-					src="/imgs/illustration-features-tab-2.png"
+					src="/01-bookmark/imgs/illustration-features-tab-2.png"
 					alt="Bookmark Manager Interface"
 				/>
 			</div>
@@ -91,7 +91,7 @@
 			<div class="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
 				<img
 					class="section-image"
-					src="/imgs/illustration-features-tab-3.png"
+					src="/01-bookmark/imgs/illustration-features-tab-3.png"
 					alt="Bookmark Manager Interface"
 				/>
 			</div>

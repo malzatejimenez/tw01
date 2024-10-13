@@ -16,7 +16,11 @@
 		</div>
 		<!-- Image -->
 		<div class="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 z-10">
-			<img class="section-image" src="/imgs/hero-bg.png" alt="Bookmark Manager Interface" />
+			<img
+				class="section-image"
+				src="/01-bookmark/imgs/hero-bg.png"
+				alt="Bookmark Manager Interface"
+			/>
 		</div>
 	</div>
 	<!-- Rounded Rectangle -->
